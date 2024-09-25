@@ -1,0 +1,10 @@
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\PRACTICA 12.0\PRACTICA 12.0\bin\Debug\PRACTICA 12.0.exe.config
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\PRACTICA 12.0\PRACTICA 12.0\bin\Debug\PRACTICA 12.0.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\PRACTICA 12.0\PRACTICA 12.0\bin\Debug\PRACTICA 12.0.pdb
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\PRACTICA 12.0\PRACTICA 12.0\obj\Debug\PRACTICA 12.0.csproj.AssemblyReference.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\PRACTICA 12.0\PRACTICA 12.0\obj\Debug\PRACTICA_12._0.Form1.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\PRACTICA 12.0\PRACTICA 12.0\obj\Debug\PRACTICA_12._0.Properties.Resources.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\PRACTICA 12.0\PRACTICA 12.0\obj\Debug\PRACTICA 12.0.csproj.GenerateResource.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\PRACTICA 12.0\PRACTICA 12.0\obj\Debug\PRACTICA 12.0.csproj.CoreCompileInputs.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\PRACTICA 12.0\PRACTICA 12.0\obj\Debug\PRACTICA 12.0.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\PRACTICA 12.0\PRACTICA 12.0\obj\Debug\PRACTICA 12.0.pdb
